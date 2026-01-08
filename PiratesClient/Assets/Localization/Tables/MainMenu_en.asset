@@ -1,0 +1,364 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MainMenu_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 8c2c8b12a9461f0478f4241a2305393f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 138204540928
+    m_Localized: Log in to account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420397314048
+    m_Localized: Login
+    m_Metadata:
+      m_Items: []
+  - m_Id: 492023443456
+    m_Localized: Password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 607970783232
+    m_Localized: Enter login...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 717211430912
+    m_Localized: Enter password...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 854893654016
+    m_Localized: Log in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 970891325440
+    m_Localized: Register
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1083042820096
+    m_Localized: MENU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1252673056768
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1383464038400
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1508513017856
+    m_Localized: How to play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1607452454912
+    m_Localized: Leaderboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1749425451008
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1835731644416
+    m_Localized: Profile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1926592851968
+    m_Localized: Notifications
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2386649280512
+    m_Localized: Connection error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2568321363968
+    m_Localized: Reconnect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2689226371072
+    m_Localized: Connecting...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2852179275776
+    m_Localized: Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3122539917312
+    m_Localized: Change name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3197274025984
+    m_Localized: Change address
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3309572321280
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3396599934976
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3508910813184
+    m_Localized: Enter text...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3620437356544
+    m_Localized: Enter country...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3725630500864
+    m_Localized: Enter city...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3805645238272
+    m_Localized: Accept
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3981868920832
+    m_Localized: Country
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4191168884736
+    m_Localized: City
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4263197667328
+    m_Localized: Rating
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4476419305472
+    m_Localized: With friends
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4566068359168
+    m_Localized: With AI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4675397087232
+    m_Localized: Create
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4780506345472
+    m_Localized: Room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4992490663936
+    m_Localized: Players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5075474968576
+    m_Localized: Invite friend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5175567839232
+    m_Localized: Leave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5232396464128
+    m_Localized: Add AI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5329293275136
+    m_Localized: Start game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5427137998848
+    m_Localized: Refresh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5598882164736
+    m_Localized: Invites
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5723721428992
+    m_Localized: Player count
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5771393888256
+    m_Localized: One
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5895511732224
+    m_Localized: Two
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5897139122176
+    m_Localized: Three
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5898942672896
+    m_Localized: Four
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6259866726400
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6373180043264
+    m_Localized: Log out
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6441031299072
+    m_Localized: Add friend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6544689328128
+    m_Localized: Searching for opponents...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6808196476928
+    m_Localized: Stop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6921987944448
+    m_Localized: Match over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7066431385600
+    m_Localized: Join
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389724504190976
+    m_Localized: Rock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389782813405184
+    m_Localized: Scisors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389777444696064
+    m_Localized: Paper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2199053565816832
+    m_Localized: This account is already online.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2199086923116544
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2205481860984832
+    m_Localized: Login taken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2205550190391296
+    m_Localized: Login not found
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2205551645814784
+    m_Localized: IncorrectPassword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21368589267152896
+    m_Localized: Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25326093550399488
+    m_Localized: 'Objective: Collect more gold from the island than your opponents.
+
+
+      For
+      a win against 1 opponent +1 point
+
+      For a win against 2 opponents +2 points
+
+      For
+      a win against 3 opponents +3 points
+
+      For a draw against 1 opponent -
+      0 points
+
+      For a draw against 2 opponents - 1 point
+
+      For a draw
+      against 3 opponents - 2 points
+
+      For a loss against 1 opponent -1 point
+
+      For
+      a loss against 2 opponents -2 points
+
+      For a loss against 3 opponents
+      -3 points'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25326754526572544
+    m_Localized: Tiles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25336691365425152
+    m_Localized: '"Crab" - Backward move'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25336696440532992
+    m_Localized: '"Ship" - Return to the ship'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25336698680291328
+    m_Localized: '"Door" - Move to the second cell "Door"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25336779194150912
+    m_Localized: '"Genie" - Extra move'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25336782373433344
+    m_Localized: '"Island" - Cell where the opponent cannot attack you'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25336783971463168
+    m_Localized: '"Arrows" - Continue your move in the direction of the arrow'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25336907896369152
+    m_Localized: '"Death" - Death of a pirate'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25336910299705344
+    m_Localized: '"First Aid Kit" - Revives a pirate'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25336911973232640
+    m_Localized: '"Gold" - The main resource for victory'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25337034665013248
+    m_Localized: '"Dynamite" - Sends the player to the ship (without gold)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25337037320007680
+    m_Localized: Stash Chest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25337039425548288
+    m_Localized: '- Open any cell for yourself'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25337153770663936
+    m_Localized: '- Move to any cell'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25337154659856384
+    m_Localized: '- Extra dynamite'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27445339071885312
+    m_Localized: Decline
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

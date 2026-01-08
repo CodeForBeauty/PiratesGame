@@ -1,0 +1,6 @@
+# Builds
+/[Bb]uild/
+/[Bb]uilds/
+
+# Project cloner projects
+/PiratesClient_clone_*/

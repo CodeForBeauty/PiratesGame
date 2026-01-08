@@ -1,0 +1,346 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MainMenu Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: MainMenu
+  m_TableCollectionNameGuidString: 8c2c8b12a9461f0478f4241a2305393f
+  m_Entries:
+  - m_Id: 138204540928
+    m_Key: LoginText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420397314048
+    m_Key: 'Login
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 492023443456
+    m_Key: Password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 607970783232
+    m_Key: EnterLogin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 717211430912
+    m_Key: EnterPassword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 854893654016
+    m_Key: Login
+    m_Metadata:
+      m_Items: []
+  - m_Id: 970891325440
+    m_Key: Register
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1083042820096
+    m_Key: MainMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1252673056768
+    m_Key: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1383464038400
+    m_Key: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1508513017856
+    m_Key: HowToPlay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1607452454912
+    m_Key: Ratings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1749425451008
+    m_Key: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1835731644416
+    m_Key: Profile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1926592851968
+    m_Key: Notifications
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2386649280512
+    m_Key: ConnectionError
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2568321363968
+    m_Key: Reconnect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2689226371072
+    m_Key: Connecting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2852179275776
+    m_Key: Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3122539917312
+    m_Key: ChangeName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3197274025984
+    m_Key: ChangeAddress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3309572321280
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3396599934976
+    m_Key: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3508910813184
+    m_Key: EnterText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3620437356544
+    m_Key: EnterCountry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3725630500864
+    m_Key: EnterCity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3805645238272
+    m_Key: Accept
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3981868920832
+    m_Key: Country
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4191168884736
+    m_Key: City
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4263197667328
+    m_Key: RatingGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4476419305472
+    m_Key: WithFriends
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4566068359168
+    m_Key: WithAI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4675397087232
+    m_Key: Create
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4780506345472
+    m_Key: Room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4992490663936
+    m_Key: Players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5075474968576
+    m_Key: InviteFriend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5175567839232
+    m_Key: Leave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5232396464128
+    m_Key: AddAI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5329293275136
+    m_Key: StartGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5427137998848
+    m_Key: Refresh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5598882164736
+    m_Key: Invites
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5723721428992
+    m_Key: PlayerCount
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5771393888256
+    m_Key: One
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5895511732224
+    m_Key: Two
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5897139122176
+    m_Key: Three
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5898942672896
+    m_Key: Four
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6259866726400
+    m_Key: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6373180043264
+    m_Key: LogOut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6441031299072
+    m_Key: AddFriend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6544689328128
+    m_Key: SearchOpponent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6808196476928
+    m_Key: Stop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6921987944448
+    m_Key: MatchOver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7066431385600
+    m_Key: Join
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389724504190976
+    m_Key: Rock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389777444696064
+    m_Key: Paper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389782813405184
+    m_Key: Scisors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2199053565816832
+    m_Key: AlreadyOnline
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2199086923116544
+    m_Key: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2205481860984832
+    m_Key: LoginTaken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2205550190391296
+    m_Key: NotFound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2205551645814784
+    m_Key: IncorrectPassword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21368589267152896
+    m_Key: Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25326093550399488
+    m_Key: HowToStart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25326754526572544
+    m_Key: Tiles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25336691365425152
+    m_Key: Crab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25336696440532992
+    m_Key: Ship
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25336698680291328
+    m_Key: Door
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25336779194150912
+    m_Key: Ginie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25336782373433344
+    m_Key: Island
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25336783971463168
+    m_Key: Arrows
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25336907896369152
+    m_Key: Death
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25336910299705344
+    m_Key: Aid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25336911973232640
+    m_Key: Gold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25337034665013248
+    m_Key: Dinamite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25337037320007680
+    m_Key: Chest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25337039425548288
+    m_Key: OpenTile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25337153770663936
+    m_Key: MoveToTile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25337154659856384
+    m_Key: AddDinamite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27445339071885312
+    m_Key: Decline
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8119714773992210456
+  references:
+    version: 2
+    RefIds:
+    - rid: 8119714773992210456
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1716813225194

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiratesServer", "PiratesServer\PiratesServer.csproj", "{1D5B8787-0D89-47E7-BEE8-6C2ADCD23CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D5B8787-0D89-47E7-BEE8-6C2ADCD23CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5B8787-0D89-47E7-BEE8-6C2ADCD23CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5B8787-0D89-47E7-BEE8-6C2ADCD23CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5B8787-0D89-47E7-BEE8-6C2ADCD23CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C3AF1DB-1723-4ED7-8432-0053697F201B}
+	EndGlobalSection
+EndGlobal
